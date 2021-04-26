@@ -1,0 +1,142 @@
+/* Nav-bar */
+.container {
+    margin: 48px 12px;
+}
+.text-title {
+    color: red
+    font-size: 30px;
+}
+.text-body {
+    color: red;
+    font-size: 18px;
+}
+.text {
+    color: blue;
+    font-size: 24px;
+}
+.navbar {
+    box-shadow: 2px 4px;
+}
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+li {
+    font-size: 16px;
+    color: blue;
+    margin: 6px;
+}
+
+/* Login and Create an Account Button */
+.login {
+    text-align: end ;
+    padding-top: 50px;
+    padding-right: 25px;
+}
+
+.createanaccount {
+    text-align: end ;
+    padding-right: 25px;
+}
+
+h1 {
+    background-color: white ;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-left: 25px;
+}
+/* Home */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 500px; 
+}
+
+.row after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+.home-intro {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: purple;
+    height: 500px;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 100px;
+    box-align: center;
+}
+
+.happy-staff-patient {
+    height: 500px;
+    width: auto;
+    box-align: center;
+    padding-left: 100px;
+}
+
+/* About-Us */
+.Scott-image {
+    height: 300px;
+    width: auto;
+    box-align: center;
+    padding-left: 100px;
+}
+
+.Scott {
+    font-family:'Times New Roman', Times, serif;
+    font-size:28px;
+    padding-left: 25%;
+}
+
+.Scott-intro {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: purple;
+    height: 200px;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 100px;
+    box-align: center;
+    padding-bottom: 10px;
+}
+
+.Joann-image {
+    height: 300px;
+    width: auto;
+    box-align: center;
+    padding-right: 100px;
+}
+
+.Joann {
+    font-family:'Times New Roman', Times, serif;
+    font-size:28px;
+    padding-left: 15%;
+}
+
+.Joann-intro {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: purple;
+    height: 200px;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 50px;
+    box-align: center;
+    padding-bottom: 10px;
+}
+
+/* FOOTER */
+.footer-bottom {
+    background: rgb(206, 175, 255);
+    color: white;
+    text-align: center;    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
